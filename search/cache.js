@@ -1,0 +1,1 @@
+javascript:(function(){location.href="http://www.google.com/search?q=cache:"+escape(location.href.replace(/^http%5C:%5C/%5C/(.*)$/,"$1"))})()
